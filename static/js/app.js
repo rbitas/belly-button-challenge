@@ -83,7 +83,7 @@ function findingMetaData (sample) {
         let dropDownMenu = d3.select("#sample-metadata");
         dropDownMenu.html("")
 
-        metaResults.map(([key, value]) => {dropDownMenu.append("h5").text(`${key}: ${value}`)});
+        Object.entries(metaResults).map(([key, value]) => {dropDownMenu.append("h5").text(`${key}: ${value}`)});
 
     });
 };
