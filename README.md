@@ -1,5 +1,8 @@
 # belly-button-challenge
-DataViz boootcamp homework
+DataViz boootcamp homework\
+
+*Note: these three websites- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/entries and https://www.geeksforgeeks.org/javascript-object-entries-method/ and https://stackoverflow.com/questions/54851645/how-to-display-both-key-and-value-in-object-using-javascript were used to know and gain information regarding the function Object.enteries() which can be found in apps.js which is in the static folder*
+
 
 Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 
