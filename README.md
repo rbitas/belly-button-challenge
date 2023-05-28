@@ -1,8 +1,6 @@
 # belly-button-challenge
 DataViz boootcamp homework
 
-*Note This website was used to understand Object.enteries() function which is used in apps.js which can be found in the static folder*
-
 Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 
 Use sample_values as the values for the bar chart.
